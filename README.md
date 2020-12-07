@@ -1,2 +1,2 @@
 # React_Carousel
-Created with CodeSandbox
+Make a Carousel with easily using React
